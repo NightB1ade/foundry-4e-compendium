@@ -62,7 +62,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p><i>Basic Attack</i></p><p class=\"power-basics\"><b>At-Will</b></p><p class=\"power-basics\"><b>Standard</b></p><p class=\"power-basics\"><b>Attack: </b><b>Melee</b> 1 (one creature)</p><p  class=\"power-basics\">+8 vs. AC</p><p><b>Hit: </b> 1d10 + 3 damage.</p>",
+					"value":"<p><em>Basic Attack</em></p><p><strong>Standard, At-Will</strong></p><p>+8 vs. AC; 1d10 + 3 damage.</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -241,7 +241,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p class=\"power-basics\"><b>Recharge</b> 5-6<b> ✦ </b><b>poison</b></p><p class=\"power-basics\"><b>Standard</b></p><p class=\"power-basics\"><b>Attack: </b><b>Ranged</b> 5 (two creatures)</p><p  class=\"power-basics\">+7 vs. AC</p><p><b>Hit: </b> 1d8 + 4 damage, and the target is slowed and takes ongoing 5 poison damage (save ends both).</p>",
+					"value":"<p><strong>Standard, Recharge</strong> 5-6 <strong>✦ Poison</strong></p><p><strong>Ranged</strong> 5 (two creatures); +7 vs. AC; 1d8 + 4 damage, and the target is slowed and takes ongoing 5 poison damage (save ends both).</p>",
 					"chat":"",
 					"unidentified":""
 				},
