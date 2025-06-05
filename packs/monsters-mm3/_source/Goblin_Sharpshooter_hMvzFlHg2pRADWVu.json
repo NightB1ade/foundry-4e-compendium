@@ -109,7 +109,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p><i>Basic Attack</i></p><p class=\"power-basics\"><b>At-Will</b><b> ✦ </b><b>weapon</b></p><p class=\"power-basics\"><b>Standard</b></p><p class=\"power-basics\"><b>Attack: </b><b>Melee</b> 1 (one creature)</p><p  class=\"power-basics\">+7 vs. AC</p><p><b>Hit: </b> 2d6 + 2 damage.</p>",
+					"value":"<p><em>Basic Attack</em></p><p><strong>Standard, At-Will ✦ Weapon</strong></p><p>+7 vs. AC; 2d6 + 2 damage.</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -290,7 +290,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p><i>Basic Attack</i></p><p class=\"power-basics\"><b>At-Will</b><b> ✦ </b><b>weapon</b></p><p class=\"power-basics\"><b>Standard</b></p><p class=\"power-basics\"><b>Attack: </b><b>Ranged</b> 10/20 (one creature)</p><p  class=\"power-basics\">+9 vs. AC</p><p><b>Hit: </b> 1d6 + 7 damage.</p>",
+					"value":"<p><em>Basic Attack</em></p><p><strong>Standard, At-Will ✦ Weapon</strong></p><p><strong>Ranged</strong> 10/20; +9 vs. AC; 1d6 + 7 damage.</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -471,7 +471,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p class=\"power-basics\"><b>At-Will</b></p><p class=\"power-basics\"><b>Triggered</b></p><p class=\"power-basics\"><b>Trigger: </b> The sharpshooter is missed by an attack.</p><p><b>Effect (Immediate Reaction): </b> The sharpshooter shifts 1 square.</p>",
+					"value":"<p><strong>Immediate Reaction, At-Will</strong></p><p><strong>Trigger:</strong> The sharpshooter is missed by an attack.</p><p>The sharpshooter shifts 1 square.</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -867,7 +867,7 @@
 				"secondary":"standard",
 				"leader":false
 			},
-			"equipment":"crossbow bolts (20) , hand crossbow , leather armor , short sword .Update (12/17/2012)Updated in Dungeon 208."
+			"equipment":"crossbow bolts (20), hand crossbow, leather armor, short sword"
 		},
 		"languages":{
 			"spoken":{
