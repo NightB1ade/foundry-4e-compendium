@@ -15,7 +15,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p><i>Basic Attack</i></p><p class=\"power-basics\"><b>At-Will</b><b> ✦ </b><b>Weapon</b></p><p class=\"power-basics\"><b>Standard</b></p><p  class=\"power-basics\">+7 vs AC; 1d10+4 damage, the target is slowed until the end of the hobgoblin soldier's next turn, and the target is marked until the end of the hobgoblin soldier's next turn.</p>",
+					"value":"<p><em>Basic Attack</em></p><p><strong>Standard, At-Will ✦ Weapon</strong></p><p>+7 vs AC; 1d10 + 4 damage, the target is slowed until the end of the hobgoblin soldier's next turn, and the target is marked until the end of the hobgoblin soldier's next turn.</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -196,7 +196,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p class=\"power-basics\"><b>At-Will</b><b> ✦ </b><b>Weapon</b></p><p class=\"power-basics\"><b>Standard</b></p><p  class=\"power-basics\">+7 vs AC; 1d10+4 damage, and the hobgoblin soldier shifts 1 square provided it ends in a space adjacent to another hobgoblin.</p>",
+					"value":"<p><strong>Standard, At-Will ✦ Weapon</strong></p><p>+7 vs AC; 1d10 + 4 damage, and the hobgoblin soldier shifts 1 square provided it ends in a space adjacent to another hobgoblin.</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -376,7 +376,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p class=\"power-basics\"><b>Encounter</b></p><p class=\"power-basics\"><b>Immediate Reaction</b></p><p class=\"power-basics\"><b>Trigger: </b> When the hobgoblin soldier suffers an effect that a save can end</p><p>The hobgoblin soldier makes a saving throw against the triggering effect.</p>",
+					"value":"<p><strong>Immediate Reaction, Encounter</strong></p><p><strong>Trigger:</strong> When the hobgoblin soldier suffers an effect that a save can end</p><p>The hobgoblin soldier makes a saving throw against the triggering effect.</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -819,7 +819,7 @@
 				"secondary":"standard",
 				"leader":false
 			},
-			"equipment":"flail , heavy shield , scale armor ."
+			"equipment":"flail, heavy shield, scale armor"
 		},
 		"languages":{
 			"spoken":{
