@@ -62,7 +62,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p><i>Basic Attack</i></p><p class=\"power-basics\"><b>At-Will</b><b> ✦ </b><b>acid</b></p><p class=\"power-basics\"><b>Standard</b></p><p class=\"power-basics\"><b>Attack: </b><b>Melee</b> 1 (one creature)</p><p  class=\"power-basics\">+8 vs. AC</p><p><b>Hit: </b> 2d6 + 1 damage, and ongoing 5 acid damage (save ends).</p>",
+					"value":"<p><em>Basic Attack</em></p><p><strong>Standard, At-Will ✦ Acid</strong></p><p>+8 vs. AC; 2d6 + 1 damage, and ongoing 5 acid damage (save ends).</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -243,7 +243,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p><b>Move</b></p><p><b>Effect: </b> The ochre jelly shifts up to 4 squares.</p>",
+					"value":"<p><strong>Move</strong></p><p>The ochre jelly shifts up to 4 squares.</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -421,7 +421,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p class=\"power-basics\"><b>Encounter</b></p><p class=\"power-basics\"><b>Triggered</b></p><p class=\"power-basics\"><b>Trigger: </b> The ochre jelly becomes bloodied.</p><p><b>Effect (No Action): </b> The jelly splits into two creatures, each with hit points equal to one-half its current hit points. Effects on the original ochre jelly do not apply to the second one.</p>",
+					"value":"<p><strong>No Action, Encounter</strong></p><p><strong>Trigger:</strong> The ochre jelly becomes bloodied</p><p>The jelly splits into two creatures, each with hit points equal to one-half its current hit points. Effects on the original ochre jelly do not apply to the second one.</p>",
 					"chat":"",
 					"unidentified":""
 				},
