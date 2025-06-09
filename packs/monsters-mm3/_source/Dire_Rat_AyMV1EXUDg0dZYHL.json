@@ -15,7 +15,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p><i>Basic Attack</i></p><p class=\"power-basics\"><b>At-Will</b><b> ✦ </b><b>disease</b></p><p class=\"power-basics\"><b>Standard</b></p><p class=\"power-basics\"><b>Attack: </b><b>Melee</b> 1 (one creature)</p><p  class=\"power-basics\">+6 vs. AC</p><p><b>Hit: </b> 1d10 + 5 damage. At the end of the encounter, the target makes a saving throw. On a failure, the target contracts dire rat filth fever (stage 1).</p>",
+					"value":"<p><em>Basic Attack</em></p><p><strong>Standard, At-Will ✦ Disease</strong></p><p>+6 vs. AC; 1d10 + 5 damage. At the end of the encounter, the target makes a saving throw. On a failure, the target contracts dire rat filth fever (stage 1).</p>",
 					"chat":"",
 					"unidentified":""
 				},
