@@ -423,7 +423,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p class=\"power-basics\"><b>Encounter</b><b> ✦ </b><b>Illusion</b></p><p class=\"power-basics\"><b>Immediate Reaction</b></p><p class=\"power-basics\"><b>Trigger: </b> When the gnome skulk takes damage</p><p>The gnome skulk turns invisible until it attacks or until the end of its next turn.</p>",
+					"value":"<p><strong>Immediate Reaction, Encounter ✦ Illusion</strong></p><p><strong>Trigger:</strong> When the gnome skulk takes damage</p><p>The gnome skulk turns invisible until it attacks or until the end of its next turn.</p>",
 					"chat":"",
 					"unidentified":""
 				},
