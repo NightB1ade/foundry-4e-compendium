@@ -11,7 +11,7 @@
 			"img":"icons/svg/aura.svg",
 			"system":{
 				"description":{
-					"value":"<p><b>Cold</b></p><p><b>Aura</b> 1</p><p>Each enemy within the aura takes a -2 penalty to all defenses.</p>",
+					"value":"<p><strong>Aura</strong> 1 <strong>✦ Cold</strong></p><p>Each enemy within the aura takes a -2 penalty to all defenses.</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -62,7 +62,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p><i>Basic Attack</i></p><p class=\"power-basics\"><b>At-Will</b><b> ✦ </b><b>necrotic</b></p><p class=\"power-basics\"><b>Standard</b></p><p class=\"power-basics\"><b>Attack: </b><b>Melee</b> 1 (one creature)</p><p  class=\"power-basics\">+7 vs. Reflex</p><p><b>Hit: </b> 1d6 + 2 necrotic damage.</p>",
+					"value":"<p><em>Basic Attack</em></p><p><strong>Standard, At-Will ✦ Necrotic</strong></p><p>+7 vs. Reflex; 1d6 + 2 necrotic damage.</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -243,7 +243,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p class=\"power-basics\"><b>Recharge</b> 5-6<b> ✦ </b><b>illusion, psychic</b></p><p class=\"power-basics\"><b>Standard</b></p><p class=\"power-basics\"><b>Attack: </b><b>Close</b> burst 2 (enemies in the burst)</p><p  class=\"power-basics\">+7 vs. Will</p><p><b>Hit: </b> 2d6 + 2 psychic damage, and the target falls prone.</p>",
+					"value":"<p><strong>Standard, Recharge</strong> 5-6 <strong>✦ Illusion, Psychic</strong></p><p><strong>Close</strong> burst 2 (enemies in the burst); +7 vs. Will; 2d6 + 2 psychic damage, and the target falls prone.</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -424,7 +424,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p class=\"power-basics\"><b>At-Will</b><b> ✦ </b><b>illusion</b></p><p class=\"power-basics\"><b>Standard</b></p><p><b>Effect: </b> The specter becomes invisible until it hits or misses with an attack.</p>",
+					"value":"<p><strong>Standard, At-Will ✦ Illusion</strong></p><p>The specter becomes invisible until it hits or misses with an attack.</p>",
 					"chat":"",
 					"unidentified":""
 				},
