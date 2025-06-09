@@ -15,7 +15,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p><i>Basic Attack</i></p><p class=\"power-basics\"><b>At-Will</b><b> ✦ </b><b>Weapon</b></p><p class=\"power-basics\"><b>Standard</b></p><p><b>Reach</b> 2</p><p  class=\"power-basics\">+10 vs AC; 1d10+3 damage.</p>",
+					"value":"<p><em>Basic Attack</em></p><p><strong>Standard, At-Will ✦ Weapon</strong></p><p><strong>Reach</strong> 2; +10 vs AC; 1d10 + 3 damage.</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -196,7 +196,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p class=\"power-basics\"><b>At-Will</b><b> ✦ </b><b>Poison</b></p><p class=\"power-basics\"><b>Standard</b></p><p  class=\"power-basics\">+10 vs AC; 1d6+3 damage, and the ettercap makes a secondary attack against the same target.</p><p><b>Secondary Attack</b> +8 vs Fortitude; ongoing 5 poison damage (save ends).</p>",
+					"value":"<p><strong>Standard, At-Will ✦ Poison</strong></p><p>+10 vs AC; 1d6 + 3 damage, and the ettercap makes a secondary attack against the same target.</p><p><em>Secondary Attack:</em> +8 vs Fortitude; ongoing 5 poison damage (save ends).</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -376,7 +376,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p class=\"power-basics\"><b>At-Will</b></p><p class=\"power-basics\"><b>Minor 1/Round, At-Will</b></p><p><b>Ranged</b> 5</p><p  class=\"power-basics\">+9 vs Reflex; the target is restrained (save ends).</p>",
+					"value":"<p><strong>Minor 1/Round, At-Will</strong></p><p><strong>Ranged</strong> 5; +9 vs Reflex; the target is restrained (save ends).</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -554,7 +554,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p class=\"power-basics\"><b>Recharge</b> 6</p><p class=\"power-basics\"><b>Area</b> burst 2 within 10</p><p  class=\"power-basics\">+9 vs Reflex; the target is immobilized (save ends). The zone is filled with spider webs and is considered difficult terrain until the end of the encounter.</p>",
+					"value":"<p><strong>Recharge</strong> 6</p><p><strong>Area</strong> burst 2 within 10; +9 vs Reflex; the target is immobilized (save ends). The zone is filled with spider webs and is considered difficult terrain until the end of the encounter.</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -997,7 +997,7 @@
 				"secondary":"standard",
 				"leader":false
 			},
-			"equipment":"leather armor , longspear ."
+			"equipment":"leather armor, longspear"
 		},
 		"languages":{
 			"spoken":{
