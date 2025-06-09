@@ -15,7 +15,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p><i>Basic Attack</i></p><p class=\"power-basics\"><b>At-Will</b><b> ✦ </b><b>Weapon</b></p><p class=\"power-basics\"><b>Standard</b></p><p  class=\"power-basics\">+9 vs AC; 1d12+5 damage (crit 1d12 + 17).</p>",
+					"value":"<p><em>Basic Attack</em></p><p><strong>Standard, At-Will ✦ Weapon</strong></p><p>+9 vs AC; 1d12 + 5 damage (crit 1d12 + 17).</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -196,7 +196,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p class=\"power-basics\"><b>At-Will</b><b> ✦ </b><b>Poison</b></p><p class=\"power-basics\"><b>Standard</b></p><p  class=\"power-basics\">+9 vs AC; 1d6+4 damage. If the attack hits, the ettercap makes a secondary attack against the same target.</p><p><b>Secondary Attack</b> +7 vs Fortitude; the target is stunned until the end of the ettercap's next turn and takes ongoing 5 poison damage (save ends).</p>",
+					"value":"<p><strong>Standard, At-Will ✦ Poison</strong></p><p>+9 vs AC; 1d6 + 4 damage. If the attack hits, the ettercap makes a secondary attack against the same target.</p><p><em>Secondary Attack:</em> +7 vs Fortitude; the target is stunned until the end of the ettercap's next turn and takes ongoing 5 poison damage (save ends).</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -376,7 +376,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p class=\"power-basics\"><b>At-Will</b></p><p class=\"power-basics\"><b>Standard</b></p><p  class=\"power-basics\">+7 vs Reflex; the target is immobilized (save ends).</p>",
+					"value":"<p><strong>Standard, At-Will</strong></p><p>+7 vs Reflex; the target is immobilized (save ends).</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -866,7 +866,7 @@
 				"secondary":"standard",
 				"leader":false
 			},
-			"equipment":"greataxe , leather armor ."
+			"equipment":"greataxe, leather armor"
 		},
 		"languages":{
 			"spoken":{
