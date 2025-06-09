@@ -62,7 +62,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p><i>Basic Attack</i></p><p class=\"power-basics\"><b>At-Will</b></p><p class=\"power-basics\"><b>Standard</b></p><p class=\"power-basics\"><b>Attack: </b><b>Melee</b> 1 (one creature)</p><p  class=\"power-basics\">+10 vs. AC, or +12 vs. AC while the drake is bloodied</p><p><b>Hit: </b> 2d10 + 5 damage, or 2d10 + 7 while the drake is bloodied.</p>",
+					"value":"<p><em>Basic Attack</em></p><p><strong>Standard, At-Will</strong></p><p>+10 vs. AC, or +12 vs. AC while the drake is bloodied; 2d10 + 5 damage, or 2d10 + 7 while the drake is bloodied.</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -241,7 +241,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p class=\"power-basics\"><b>At-Will</b></p><p class=\"power-basics\"><b>Standard</b></p><p><b>Effect: </b> The drake charges and makes the following attack twice against the target of its charge in place of a melee basic attack</p><p class=\"power-basics\"><b>Attack: </b><b>Melee</b> 1 (one creature); +10 vs. AC, or +12 AC while the drake is bloodied</p><p><b>Hit: </b> 1d6 + 4 damage, or 1d6 + 6 while the drake is bloodied.</p>",
+					"value":"<p><strong>Standard, At-Will</strong></p><p>The drake charges and makes the following attack twice against the target of its charge in place of a melee basic attack</p><p>+10 vs. AC, or +12 AC while the drake is bloodied; 1d6 + 4 damage, or 1d6 + 6 while the drake is bloodied.</p>",
 					"chat":"",
 					"unidentified":""
 				},
