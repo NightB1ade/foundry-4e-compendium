@@ -15,7 +15,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p><i>Basic Attack</i></p><p class=\"power-basics\"><b>At-Will</b></p><p class=\"power-basics\"><b>Standard</b></p><p class=\"power-basics\"><b>Attack: </b><b>Melee</b> 1 (one creature)</p><p  class=\"power-basics\">+7 vs. AC</p><p><b>Hit: </b> 1d10 + 3 damage, or 1d10 + 9 while the drake is within 2 squares of an ally.</p>",
+					"value":"<p><em>Basic Attack</em></p><p><strong>Standard, At-Will</strong></p><p>+7 vs. AC; 1d10 + 3 damage, or 1d10 + 9 while the drake is within 2 squares of an ally.</p>",
 					"chat":"",
 					"unidentified":""
 				},
