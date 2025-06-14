@@ -15,7 +15,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p><i>Basic Attack</i></p><p class=\"power-basics\"><b>At-Will</b><b> ✦ </b><b>necrotic</b></p><p class=\"power-basics\"><b>Standard</b></p><p class=\"power-basics\"><b>Attack: </b><b>Melee</b> 1 (one creature)</p><p  class=\"power-basics\">+9 vs. AC</p><p><b>Hit: </b> 1d6 necrotic damage, and the target loses a healing surge.</p>",
+					"value":"<p><em>Basic Attack</em></p><p><strong>Standard, At-Will ✦ necrotic</strong></p><p>+9 vs. AC; 1d6 necrotic damage, and the target loses a healing surge.</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -196,7 +196,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p class=\"power-basics\"><b>At-Will</b><b> ✦ </b><b>necrotic</b></p><p class=\"power-basics\"><b>Standard</b></p><p class=\"power-basics\"><b>Attack: </b><b>Ranged</b> 20 (one creature)</p><p  class=\"power-basics\">+7 vs. Reflex</p><p><b>Hit: </b> 1d6 + 8 necrotic damage, and the target is immobilized (save ends).</p>",
+					"value":"<p><strong>Standard, At-Will ✦ necrotic</strong></p><p><strong>Ranged</strong> 20; +7 vs. Reflex; 1d6 + 8 necrotic damage, and the target is immobilized (save ends).</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -376,7 +376,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p class=\"power-basics\"><b>Recharge</b> 4-6<b> ✦ </b><b>fear, psychic</b></p><p class=\"power-basics\"><b>Standard</b></p><p class=\"power-basics\"><b>Attack: </b><b>Close</b> blast 5 (creatures in the blast)</p><p  class=\"power-basics\">+7 vs. Will</p><p><b>Hit: </b> 1d6 + 6 psychic damage, and the wight pushes the target up to 3 squares.</p>",
+					"value":"<p><strong>Standard, Recharge</strong> 4-6 <strong>✦ Fear, Psychic</strong></p><p><strong>Close</strong> blast 5 (creatures in the blast); +7 vs. Will; 1d6 + 6 psychic damage, and the wight pushes the target up to 3 squares.</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -557,7 +557,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p class=\"power-basics\"><b>Encounter</b><b> ✦ </b><b>healing</b></p><p class=\"power-basics\"><b>Minor</b></p><p><b>Effect: </b><b>Ranged</b> 10 (one destroyed undead creature of level 6 or lower that is not a minion). The target regains hit points equal to one-half its bloodied value. It can stand up as a free action.</p>",
+					"value":"<p><strong>Minor, Encounter ✦ Healing</strong></p><p><strong>Ranged</strong> 10 (one destroyed undead creature of level 6 or lower that is not a minion); The target regains hit points equal to one-half its bloodied value. It can stand up as a free action.</p>",
 					"chat":"",
 					"unidentified":""
 				},
