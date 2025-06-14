@@ -15,7 +15,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p><i>Basic Attack</i></p><p class=\"power-basics\"><b>At-Will</b><b> ✦ </b><b>Weapon</b></p><p class=\"power-basics\"><b>Standard</b></p><p  class=\"power-basics\">+7 vs AC; 1d6+1 damage.</p>",
+					"value":"<p><em>Basic Attack</em></p><p><strong>Standard, At-Will ✦ Weapon</strong></p><p>+7 vs AC; 1d6 + 1 damage.</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -196,7 +196,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p class=\"power-basics\"><b>At-Will</b></p><p class=\"power-basics\"><b>Standard</b></p><p><b>Ranged</b> 10</p><p  class=\"power-basics\">+7 vs Fortitude; 2d6+1 damage, and the target is blinded (save ends).</p>",
+					"value":"<p><strong>Standard, At-Will</strong></p><p><strong>Ranged</strong> 10; +7 vs Fortitude; 2d6 + 1 damage, and the target is blinded (save ends).</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -374,7 +374,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p class=\"power-basics\"><b>Recharge</b> 5-6</p><p class=\"power-basics\"><b>Standard</b></p><p><b>Ranged</b> 10</p><p  class=\"power-basics\">+7 vs Will; 3d6+1 the target takes 3d6 + 1 damage if it moves during its turn (save ends).</p>",
+					"value":"<p><strong>Standard, Recharge</strong> 5-6</p><p><strong>Ranged</strong> 10; +7 vs Will; 3d6 + 1 the target takes 3d6 + 1 damage if it moves during its turn (save ends).</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -552,7 +552,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p class=\"power-basics\"><b>Encounter</b><b> ✦ </b><b>Zone</b></p><p class=\"power-basics\"><b>Standard</b></p><p><b>Area</b> burst 3 within 10</p><p>Sustain Minor</p><p>Automatic hit; all enemies within the zone take a -2 penalty to attack rolls. The zone grants concealment to the goblin hexer and its allies. The goblin hexer can sustain the zone as a minor action, moving it up to 5 squares</p>",
+					"value":"<p><strong>Standard, Sustain Minor, Encounter ✦ Zone</strong></p><p><strong>Area</strong> burst 3 within 10; Automatic hit; all enemies within the zone take a -2 penalty to attack rolls. The zone grants concealment to the goblin hexer and its allies.</p><p><em>Sustain Minor:</em> The goblin hexer can sustain the zone as a minor action, moving it up to 5 squares</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -732,7 +732,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p class=\"power-basics\"><b>At-Will</b></p><p class=\"power-basics\"><b>Immediate Reaction</b></p><p><b>Ranged</b> 10</p><p class=\"power-basics\"><b>Trigger: </b> When an ally uses goblin tactics, at-will</p><p>The targeted ally can shift 2 squares and make an attack.</p>",
+					"value":"<p><strong>Immediate Reaction, At-Will</strong></p><p><strong>Trigger:</strong> When an ally uses goblin tactics</p><p><strong>Ranged</strong> 10; The targeted ally can shift 2 squares and make an attack.</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -910,7 +910,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p class=\"power-basics\"><b>At-Will</b></p><p class=\"power-basics\"><b>Immediate Reaction</b></p><p class=\"power-basics\"><b>Trigger: </b> When missed by a melee attack</p><p>The goblin shifts 1 square.</p>",
+					"value":"<p><strong>Immediate Reaction, At-Will</strong></p><p><strong>Trigger: </strong>When missed by a melee attack</p><p>The goblin shifts 1 square.</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -1088,7 +1088,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p class=\"power-basics\"><b>At-Will</b></p><p class=\"power-basics\"><b>Immediate Interrupt</b></p><p class=\"power-basics\"><b>Trigger: </b> When targeted by a ranged attack</p><p>The goblin hexer can change the attack's target to an adjacent ally of its level or lower.</p>",
+					"value":"<p><strong>Immediate Interrupt, At-Will</strong></p><p><strong>Trigger:</strong> When targeted by a ranged attack</p><p>The goblin hexer can change the attack's target to an adjacent ally of its level or lower.</p>",
 					"chat":"",
 					"unidentified":""
 				},
