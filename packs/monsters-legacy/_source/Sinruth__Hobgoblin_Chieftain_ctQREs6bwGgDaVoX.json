@@ -15,7 +15,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p class=\"power-basics\"><b>At-Will</b><b> ✦ </b><b>Weapon</b></p><p class=\"power-basics\"><b>Standard</b></p><p><b>Reach</b> 2; +8 vs AC; 1d10+4 damage, and the target is pulled. If creature is adjacent, chain yank instead briefly bashes the creature against Sinruth's armor spikes for an extra 1d6 damage.</p>",
+					"value":"<p><strong>Standard, At-Will ✦ Weapon</strong></p><p><strong>Reach</strong> 2; +8 vs AC; 1d10 + 4 damage, and the target is pulled. If creature is adjacent, chain yank instead briefly bashes the creature against Sinruth's armor spikes for an extra 1d6 damage.</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -195,7 +195,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p class=\"power-basics\"><b>At-Will</b><b> ✦ </b><b>Weapon</b></p><p class=\"power-basics\"><b>Standard</b></p><p><b>Reach</b> 2; +6 vs Reflex; 1d6+4 damage, and the target is knocked prone.</p>",
+					"value":"<p><strong>Standard, At-Will ✦ Weapon</strong></p><p><strong>Reach</strong> 2; +6 vs Reflex; 1d6 + 4 damage, and the target is knocked prone.</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -375,7 +375,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p class=\"power-basics\"><b>Recharge</b> 5-6<b> ✦ </b><b>Weapon</b></p><p class=\"power-basics\"><b>Standard</b></p><p><b>Close</b> burst 1; +8 vs AC; 1d6+4 damage.</p>",
+					"value":"<p><strong>Standard, Recharge</strong> 5-6 <strong>✦ Weapon</strong></p><p><strong>Close</strong> burst 1; +8 vs AC; 1d6 + 4 damage.</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -555,7 +555,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p class=\"power-basics\"><b>At-Will</b><b> ✦ </b><b>Weapon</b></p><p class=\"power-basics\"><b>Minor</b></p><p  class=\"power-basics\">+6 vs AC; 1d6+4 damage.</p>",
+					"value":"<p><strong>Minor, At-Will ✦ Weapon</strong></p><p>+6 vs AC; 1d6 + 4 damage.</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -735,7 +735,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p class=\"power-basics\"><b>Encounter</b></p><p class=\"power-basics\"><b>Immediate Reaction</b></p><p class=\"power-basics\"><b>Trigger: </b> When the hobgoblin soldier suffers an effect that a save can end</p><p>Sinruth rolls a saving throw against the triggering effect.</p>",
+					"value":"<p><strong>Immediate Reaction, Encounter</strong></p><p><strong>Trigger:</strong> When the hobgoblin soldier suffers an effect that a save can end</p><p>Sinruth rolls a saving throw against the triggering effect.</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -1178,7 +1178,7 @@
 				"secondary":"solo",
 				"leader":false
 			},
-			"equipment":"plate armor , spiked chain ."
+			"equipment":"plate armor, spiked chain"
 		},
 		"languages":{
 			"spoken":{
