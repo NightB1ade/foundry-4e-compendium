@@ -62,7 +62,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p><i>Basic Attack</i></p><p class=\"power-basics\"><b>At-Will</b><b> ✦ </b><b>Weapon</b></p><p class=\"power-basics\"><b>Standard</b></p><p  class=\"power-basics\">+6 vs AC; 1d4 damage.</p>",
+					"value":"<p><em>Basic Attack</em></p><p><strong>Standard, At-Will ✦ Weapon</strong></p><p>+6 vs AC; 1d4 damage.</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -243,7 +243,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p class=\"power-basics\"><b>At-Will</b><b> ✦ </b><b>Radiant</b></p><p class=\"power-basics\"><b>Standard</b></p><p><b>Ranged</b> 10</p><p  class=\"power-basics\">+6 vs Fortitude; 1d6+4 radiant damage, and the target is dazed (save ends).</p>",
+					"value":"<p><strong>Standard, At-Will ✦ Radiant</strong></p><p><strong>Ranged</strong> 10; +6 vs Fortitude; 1d6 + 4 radiant damage, and the target is dazed (save ends).</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -423,7 +423,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p class=\"power-basics\"><b>At-Will</b><b> ✦ </b><b>Fear, Illusion</b></p><p class=\"power-basics\"><b>Minor, At-Will</b></p><p><b>Ranged</b> 10</p><p  class=\"power-basics\">+7 vs Will; the target shifts 1 square.</p>",
+					"value":"<p><strong>Minor, At-Will ✦ Fear, Illusion</strong></p><p><strong>Ranged</strong> 10; +7 vs Will; the target shifts 1 square.</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -604,7 +604,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p class=\"power-basics\"><b>Recharge</b> 4-6<b> ✦ </b><b>Illusion</b></p><p class=\"power-basics\"><b>Standard</b></p><p><b>Close</b> burst 5</p><p>Targets enemies; +7 vs Will; the target is slowed (save ends).</p>",
+					"value":"<p><strong>Standard, Recharge</strong> 4-6 <strong>✦ Illusion</strong></p><p><strong>Close</strong> burst 5 (enemies); +7 vs Will; the target is slowed (save ends).</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -964,7 +964,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p class=\"power-basics\"><b>Encounter</b><b> ✦ </b><b>Teleportation</b></p><p class=\"power-basics\"><b>Move</b></p><p>The gnome arcanist teleports 5 squares.</p>",
+					"value":"<p><strong>Move, Encounter ✦ Teleportation</strong></p><p>The gnome arcanist teleports 5 squares.</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -1409,7 +1409,7 @@
 				"secondary":"standard",
 				"leader":true
 			},
-			"equipment":"robes, dagger ."
+			"equipment":"robes, dagger"
 		},
 		"languages":{
 			"spoken":{
