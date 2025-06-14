@@ -15,7 +15,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p><i>Basic Attack</i></p><p class=\"power-basics\"><b>At-Will</b><b> ✦ </b><b>weapon</b></p><p class=\"power-basics\"><b>Standard</b></p><p><b>Effect: </b> The skeleton can shift 1 square before the attack</p><p class=\"power-basics\"><b>Attack: </b><b>Melee</b> 1 (one creature); +6 vs. AC</p><p><b>Hit: </b> 4 damage.</p>",
+					"value":"<p><em>Basic Attack</em></p><p><strong>Standard, At-Will ✦ Weapon</strong></p><p><strong>Effect:</strong> The skeleton can shift 1 square before the attack</p><p>+6 vs. AC; 4 damage.</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -196,7 +196,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p><i>Basic Attack</i></p><p class=\"power-basics\"><b>At-Will</b><b> ✦ </b><b>weapon</b></p><p class=\"power-basics\"><b>Standard</b></p><p><b>Effect: </b> The skeleton can shift 1 square before the attack</p><p class=\"power-basics\"><b>Attack: </b><b>Ranged</b> 20 (one creature); +6 vs. AC</p><p><b>Hit: </b> 3 damage.</p>",
+					"value":"<p><em>Basic Attack</em></p><p><strong>Standard, At-Will ✦ Weapon</strong></p><p><strong>Effect:</strong> The skeleton can shift 1 square before the attack</p><p><strong>Ranged</strong> 20; +6 vs. AC; 3 damage.</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -595,7 +595,7 @@
 				"secondary":"minion",
 				"leader":false
 			},
-			"equipment":"arrow x20, longsword , shortbow ."
+			"equipment":"arrow x20, longsword, shortbow"
 		},
 		"languages":{
 			"spoken":{
