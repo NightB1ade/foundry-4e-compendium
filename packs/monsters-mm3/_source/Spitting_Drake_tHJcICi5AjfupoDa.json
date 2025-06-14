@@ -15,7 +15,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p><i>Basic Attack</i></p><p class=\"power-basics\"><b>At-Will</b></p><p class=\"power-basics\"><b>Standard</b></p><p class=\"power-basics\"><b>Attack: </b><b>Melee</b> 1 (one creature)</p><p  class=\"power-basics\">+8 vs. AC</p><p><b>Hit: </b> 1d6 + 4 damage.</p>",
+					"value":"<p><em>Basic Attack</em></p><p><strong>Standard, At-Will</strong></p><p>+8 vs. AC; 1d6 + 4 damage.</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -194,7 +194,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p class=\"power-basics\"><b>At-Will</b><b> ✦ </b><b>acid</b></p><p class=\"power-basics\"><b>Standard</b></p><p class=\"power-basics\"><b>Attack: </b><b>Ranged</b> 10 (one creature)</p><p  class=\"power-basics\">+8 vs. Reflex</p><p><b>Hit: </b> 2d6 + 4 acid damage.</p>",
+					"value":"<p><strong>Standard, At-Will ✦ Acid</strong></p><p><strong>Ranged</strong> 10; +8 vs. Reflex; 2d6 + 4 acid damage.</p>",
 					"chat":"",
 					"unidentified":""
 				},
