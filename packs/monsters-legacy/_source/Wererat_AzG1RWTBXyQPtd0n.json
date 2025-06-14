@@ -59,7 +59,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p><i>Basic Attack</i></p><p class=\"power-basics\"><b>At-Will</b><b> ✦ </b><b>Weapon</b></p><p class=\"power-basics\"><b>Standard</b></p><p  class=\"power-basics\">+8 vs AC; 1d6+4 damage.</p>",
+					"value":"<p><em>Basic Attack</em></p><p><strong>Standard, At-Will ✦ Weapon</strong></p><p>+8 vs AC; 1d6 + 4 damage.</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -240,7 +240,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p><i>Basic Attack</i></p><p class=\"power-basics\"><b>At-Will</b><b> ✦ </b><b>Disease</b></p><p class=\"power-basics\"><b>Standard</b></p><p  class=\"power-basics\">+8 vs AC; 1d4+2 damage, and the target takes ongoing 2 damage (save ends) and contracts filth fever.</p>",
+					"value":"<p><em>Basic Attack</em></p><p><strong>Standard, At-Will ✦ Disease</strong></p><p>+8 vs AC; 1d4 + 2 damage, and the target takes ongoing 2 damage (save ends) and contracts filth fever.</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -421,7 +421,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p class=\"power-basics\"><b>At-Will</b><b> ✦ </b><b>Polymorph</b></p><p class=\"power-basics\"><b>Minor</b></p><p>A wererat can alter its physical form to appear as a dire rat or a unique human. It loses its bite attack in human form.</p>",
+					"value":"<p><strong>Minor, At-Will ✦ Polymorph</strong></p><p>A wererat can alter its physical form to appear as a dire rat or a unique human. It loses its bite attack in human form.</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -866,7 +866,7 @@
 				"secondary":"standard",
 				"leader":false
 			},
-			"equipment":"cloak, short sword ."
+			"equipment":"cloak, short sword"
 		},
 		"languages":{
 			"spoken":{
