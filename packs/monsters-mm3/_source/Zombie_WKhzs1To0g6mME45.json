@@ -62,7 +62,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p><i>Basic Attack</i></p><p class=\"power-basics\"><b>At-Will</b></p><p class=\"power-basics\"><b>Standard</b></p><p class=\"power-basics\"><b>Attack: </b><b>Melee</b> 1 (one creature)</p><p  class=\"power-basics\">+6 vs. AC</p><p><b>Hit: </b> 2d6 + 2 damage.</p>",
+					"value":"<p><em>Basic Attack</em></p><p><strong>Standard, At-Will</strong></p><p>+6 vs. AC; 2d6 + 2 damage.</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -241,7 +241,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p class=\"power-basics\"><b>At-Will</b></p><p class=\"power-basics\"><b>Standard</b></p><p class=\"power-basics\"><b>Attack: </b><b>Melee</b> 1 (one creature)</p><p  class=\"power-basics\">+4 vs. Reflex</p><p><b>Hit: </b> The target is grabbed (escape DC 18).</p>",
+					"value":"<p><strong>Standard, At-Will</strong></p><p>+4 vs. Reflex; The target is grabbed (escape DC 18).</p>",
 					"chat":"",
 					"unidentified":""
 				},
