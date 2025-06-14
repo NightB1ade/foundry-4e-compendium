@@ -15,7 +15,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p><i>Basic Attack</i></p><p class=\"power-basics\"><b>At-Will</b></p><p class=\"power-basics\"><b>Standard</b></p><p  class=\"power-basics\">+9 vs AC; 1d12+5 damage.</p>",
+					"value":"<p><em>Basic Attack</em></p><p><strong>Standard, At-Will</strong></p><p>+9 vs AC; 1d12 + 5 damage.</p>",
 					"chat":"",
 					"unidentified":""
 				},
@@ -194,7 +194,7 @@
 			"flags":{},
 			"system":{
 				"description":{
-					"value":"<p class=\"power-basics\"><b>At-Will</b></p><p class=\"power-basics\"><b>Minor, At-Will</b></p><p>Bloodied target only; +8 vs AC; 1d6+5 damage.</p>",
+					"value":"<p><strong>Minor, At-Will</strong></p><p><em>Requires:</em> Bloodied target</p><p>+8 vs AC; 1d6 + 5 damage.</p>",
 					"chat":"",
 					"unidentified":""
 				},
